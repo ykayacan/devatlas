@@ -1,0 +1,24 @@
+{
+  "name": "devatlas.github.io",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/ykayacan/devatlas.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykayacan/devatlas.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ykayacan/devatlas.github.io/issues"
+  },
+  "homepage": "https://github.com/ykayacan/devatlas.github.io#readme"
+}
