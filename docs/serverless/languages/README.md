@@ -9,7 +9,7 @@ Serverless has been gained a lot of momentum in the software industry in recent 
 | F# |  |  |  | ✔️ |  |
 | Go | ✔️ | ✔️ |  |  |  |
 | Java | ✔️ |  |  | ✔️ |  |
-| Javascript | ✔️ | ✔️ | ✔️ |  | ✔️ |
+| Javascript | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
 | PowerShell | ✔️ |  |  | ✔️ |  |
 | Python | ✔️ | ✔️ |  | ✔️ |  |
 | Ruby | ✔️ |  |  |  |  |
