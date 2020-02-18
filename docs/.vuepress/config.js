@@ -5,6 +5,7 @@ module.exports = {
         sidebar: [
             {
                 title: 'Cloud',
+                path: '/cloud/',
                 collapsable: false,
                 children: [
                     {
@@ -12,7 +13,8 @@ module.exports = {
                         path: '/cloud/aws/',
                         collapsable: false,
                         children: [
-                            '/cloud/aws/dynamodb'
+                            '/cloud/aws/dynamodb',
+                            '/cloud/aws/certification'
                         ]
                     },
                     {
@@ -27,6 +29,14 @@ module.exports = {
                         collapsable: false,
                         children: []
                     }
+                ]
+            },
+            {
+                title: 'Serverless',
+                path: '/serverless/',
+                collapsable: false,
+                children: [
+                    '/serverless/languages'
                 ]
             }
         ]
