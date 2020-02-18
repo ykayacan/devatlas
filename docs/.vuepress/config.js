@@ -1,6 +1,7 @@
 module.exports = {
     title: 'Dev Atlas',
     description: 'Description',
+    base: '/devatlas/',
     themeConfig: {
         sidebar: [
             {
