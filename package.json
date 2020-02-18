@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ykayacan/devatlas.github.io/issues"
   },
-  "homepage": "https://github.com/ykayacan/devatlas.github.io#readme"
+  "homepage": "https://github.com/ykayacan/devatlas.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.3.0"
+  }
 }
